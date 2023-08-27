@@ -1,10 +1,12 @@
+com.SoodaAppsJT.blurrrMusicVideoEditor
+
 {
 
 	"ads": {
-		"Bannerapplovine": "",
-		"Interapplovine": "",
-		"max_native_normal": "",
-		"max_native_small": "",
+		"Bannerapplovine": "23995afa327990d6",
+		"Interapplovine": "ee9b0562c1d7e228",
+		"max_native_normal": "23c3514c2fd94c11",
+		"max_native_small": "fa6a8a4514e7cfa5",
 		"rewordapplovine": "",
 
 		"GetApp_Url": "https://www.google.com/",
